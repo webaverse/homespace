@@ -1,0 +1,7 @@
+{
+  "name": "parkour",
+  "description": "Homespace XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "homespace.glb",
+  "physics_url": "homespace.bin"
+}
