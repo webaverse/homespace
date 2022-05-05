@@ -1,4 +1,5 @@
 {
   "name": "homespace",
+  "description": "Homespace",
   "start_url": "homespace.glb"
 }
