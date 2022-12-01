@@ -1,5 +1,5 @@
 {
   "name": "homespace",
   "description": "Homespace",
-  "start_url": "homespace.glb"
+  "start_url": "homespace-baked.glb"
 }
